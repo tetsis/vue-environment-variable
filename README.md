@@ -1,24 +1,2 @@
 # vue-environment-variable
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Azure Static Web AppsにVue.jsアプリをデプロイする時、環境変数を設定する方法](https://www.tetsis.com/blog/azure-static-web-apps-vue-environment-variable/)
